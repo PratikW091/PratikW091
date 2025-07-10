@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Warkri</h1>
+<h1 align="center">Hi 👋, I'm Pratik Warkari</h1>
 <h3 align="center">A Passionate Software Engineer Building Innovative Solutions with Code</h3>
 
 - 🔭 I’m currently working on **Attendify**
